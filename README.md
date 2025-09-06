@@ -1,8 +1,6 @@
-# ========================================
 # EXPLICACIÓN DE CADA PRINCIPIO SOLID:
-# ========================================
 
-"""
+
 1. SINGLE RESPONSIBILITY (SRP):
    - Libro: solo maneja datos del libro
    - Usuario: solo maneja datos del usuario  
@@ -24,4 +22,3 @@
    - GestorPrestamos depende de abstracciones
    - No de implementaciones concretas
    - Fácil intercambiar comportamientos
-"""
